@@ -1,5 +1,3 @@
-<img src="../assets/logo.jpeg" alt="Elements Wearable Logo" width="200">
-
 # Elements Wearable
 
 Welcome to **Elements Wearable**, a project focused on developing innovative wearable devices that combine cutting-edge technology with user-centric design. Our mission is to create devices that seamlessly integrate into daily life while providing impactful features for users.
